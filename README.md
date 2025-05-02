@@ -1,14 +1,14 @@
 # 💫About Me :
-Currently working on
+## Currently working on
 I’m building a React Native iOS app that helps animal shelters manage their work.
 
-Currently learning
+## Currently learning
 I’m deepening my knowledge of React best practices and getting hands‑on with a range of AWS services.
 
-Experience
+## Experience
 I have about 3 – 4 years of programming experience and have made several projects during that time.
 
-Fun fact
+## Fun fact
 My first “production release” wasn’t software in the cloud—it was a LEGO Mindstorms robot that I demoed at a robotics festival.
 
 ## 🌐Socials

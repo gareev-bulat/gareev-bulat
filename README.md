@@ -1,8 +1,15 @@
 # 💫About Me :
-I'm currently working on React Native iOS mobile application for animal shelters
-I'm currently learning AWS technology and React 
-I have 3-4 years of programming experience
-Fun fact: My first “production release” was a LEGO Mindstorms robot I demoed at a robotics festival—long before my code ever hit a cloud server.
+Currently working on
+I’m building a React Native iOS app that helps animal shelters manage their work.
+
+Currently learning
+I’m deepening my knowledge of React best practices and getting hands‑on with a range of AWS services.
+
+Experience
+I have about 3 – 4 years of programming experience and have made several projects during that time.
+
+Fun fact
+My first “production release” wasn’t software in the cloud—it was a LEGO Mindstorms robot that I demoed at a robotics festival.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/551383292394340365) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__garreev_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulat-gareev-295a95338/) 

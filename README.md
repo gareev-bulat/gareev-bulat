@@ -1,9 +1,9 @@
 # 💫About Me :
 ### Currently working on
-I’m building a React Native iOS app that helps animal shelters manage their work.
+I’m building a RESET, which is a minimalist SwiftUI app that helps users interrupt rumination and overthinking loops through short AI-guided reset interventions designed to get users off their phone and back to real life.
 
 ### Currently learning
-I’m deepening my knowledge of React best practices and getting hands‑on with a range of AWS services.
+I’m deepening my knowledge in Mobile development, specifically native Android and iOS development.
 
 ### Experience
 I have about 3 – 4 years of programming experience and have made several projects during that time.

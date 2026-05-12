@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 ### Currently working on
 I’m building a RESET, which is a minimalist SwiftUI app that helps users interrupt rumination and overthinking loops through short AI-guided reset interventions designed to get users off their phone and back to real life.
 

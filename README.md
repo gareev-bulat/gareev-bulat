@@ -1,6 +1,6 @@
 # About Me :
 ### Currently working on
-I’m building a RESET, which is a minimalist SwiftUI app that helps users interrupt rumination and overthinking loops through short AI-guided reset interventions designed to get users off their phone and back to real life.
+I recently finished building Nomiyo - a real-time live video app where city guides broadcast their location and viewers can "portal in" for 1-on-1 conversations. Built with React Native, LiveKit (WebRTC), and Firebase. Check it out here: [https://github.com/gareev-bulat/Nomiyo]
 
 ### Currently learning
 I’m deepening my knowledge in Mobile development, specifically native Android and iOS development.

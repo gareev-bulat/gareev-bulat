@@ -19,6 +19,3 @@ My first "production release" wasn't software in the cloud—it was a LEGO Minds
 
 ### ✍️Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![Profile Views](https://visitcount.itsvg.in/api?id=gareev-bulat&icon=0&color=0)](https://visitcount.itsvg.in)

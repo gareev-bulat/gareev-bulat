@@ -6,7 +6,7 @@ I recently finished building Nomiyo - a real-time live video app where city guid
 I'm deepening my knowledge in Mobile development, specifically native Android and iOS development.
 
 ### Experience
-Android Engineering Co-op at Urban Outfitters (Nuuly), where I shipped production features across two warehouse systems and built a self-service returns app from scratch, now processing ~40 returns/week. Alongside that, I build and ship full-stack and mobile projects solo - most recently extending a co-op tracking platform with a multi-agent AI pipeline (CrewAI + Claude API) for automated job discovery and scoring.
+Android Engineering Co-op at Urban Outfitters (Nuuly), where I shipped production features across two warehouse systems and built a self-service returns app from scratch, now processing ~40 returns/week.
 
 ### Fun fact
 My first "production release" wasn't software in the cloud—it was a LEGO Mindstorms robot that I demoed at a robotics festival.

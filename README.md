@@ -1,11 +1,13 @@
 # About Me
 ### Currently working on
-I recently finished building Nomiyo - a real-time live video app where city guides broadcast their location and viewers can "portal in" for 1-on-1 conversations. Built with React Native, LiveKit (WebRTC), and Firebase. Check it out here: [https://github.com/gareev-bulat/Nomiyo]
+I'm currently working as a GenAI Value Engineering Co-op at PhoenixTeam, applying generative AI to real business problems in financial services - with a focus on AI inference right now.
 
 ### Currently learning
-I'm deepening my knowledge in Mobile development, specifically native Android and iOS development.
+I'm deepening my knowledge in AI engineering - currently focused on inference optimization, and building on hands-on experience with the Claude API and OpenAI.
 
 ### Experience
+GenAI Value Engineering Co-op at PhoenixTeam, applying AI to real client problems in financial services.
+
 Android Engineering Co-op at Urban Outfitters (Nuuly), where I shipped production features across two warehouse systems and built a self-service returns app from scratch, now processing ~40 returns/week.
 
 ### Fun fact
